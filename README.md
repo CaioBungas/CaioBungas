@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"> Sou do Rio de Janeiro, tenho 17 anos e gosto de vídeos sobre o mundo da emulação de consoles, filmes e séries. Gosto também de desenhar no meu tempo livre, estou aprendendo proramação a partir do curso vai na web que acontece após o horário escolar.<br><br>- 🔭 Atualmente estou cursando o segundo ano do ensino médio<br>- 📚 Estou aprendendo linguagem de programação básica<br>- ⚡ No meu tempo livre eu gosto de assistir filmes e assistir vídeos sobre emulação</p>
+<p align="left"> Sou do Rio de Janeiro, tenho 17 anos e gosto de vídeos sobre o mundo da emulação de consoles, filmes e séries. Gosto também de desenhar no meu tempo livre, estou aprendendo programação a partir do curso vai na web que acontece após o horário escolar.<br><br>- 🔭 Atualmente estou cursando o segundo ano do ensino médio<br>- 📚 Estou aprendendo linguagem de programação básica<br>- ⚡ No meu tempo livre eu gosto de assistir filmes e assistir vídeos sobre emulação</p>
 
 ###
 
